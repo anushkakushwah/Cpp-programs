@@ -1,4 +1,5 @@
 //to find greater of three numbers without using any conditonal or loop statements
+//USING MAX FUNCTION
 #include<iostream>
 #include <algorithm>
 using namespace std;
