@@ -3,6 +3,7 @@
 //Next 100 units (101–200) → ₹2.50 per unit
 //Next 100 units (201–300) → ₹4.00 per unit
 //Above 300 units → ₹6.00 per unit
+//use the above data for the electricity bill calculation
 #include<iostream>
 using namespace std;
 int main(){
