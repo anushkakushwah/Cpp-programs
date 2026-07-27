@@ -1,4 +1,5 @@
 // to find the roots of quadratic equations
+// also showing user values into the standard quadratic form
 #include <iostream>
 #include <cmath>
 using namespace std;
