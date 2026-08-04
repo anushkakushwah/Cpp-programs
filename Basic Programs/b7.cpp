@@ -1,4 +1,4 @@
-// swapping variable without third variable wit mul div
+// swapping variable without third variable wit multiply and vivision logic
 #include <iostream>
 using namespace std;
 int main(){
