@@ -1,4 +1,4 @@
-//to convert temperature celcius into fahrenheit
+//to convert temperature celcius into fahrenheit.
 #include <iostream>
 using namespace std;
 int main() {
