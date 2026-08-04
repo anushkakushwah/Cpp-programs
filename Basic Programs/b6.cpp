@@ -10,6 +10,5 @@ int main (){
     a= a-b;
     cout << "Value of a after swap:" << a << endl;
     cout << "Value of b after swap:" << b << endl;
-
     return 0;
 }
