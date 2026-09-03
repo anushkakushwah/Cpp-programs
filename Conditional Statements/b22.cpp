@@ -15,4 +15,9 @@ int main(){
         cout << "d is greater" << endl;
     }
     return 0;
-}
+} 
+
+
+// we can also do this by comparing
+//taking a as greatest then comparing one by one if b>A b is greater
+//at the last updating max value...
