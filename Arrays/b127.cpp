@@ -1,5 +1,5 @@
 // to delete the duplicate element in the array
-// to find duplicate element in the array
+// to find duplicate e
 #include<iostream>
 using namespace std;
 int main(){
