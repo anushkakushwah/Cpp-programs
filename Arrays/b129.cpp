@@ -1,4 +1,4 @@
-// to find smallest element in the array
+// to find smallest element in the array.
 #include<iostream>
 #include <climits>
 using namespace std;
