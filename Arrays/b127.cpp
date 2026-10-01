@@ -15,7 +15,6 @@ int main(){
         cout << arr1[i] << " ";
     }
     cout << endl;
-
     //for finding duplicate elements;
     for(int i =0; i<sz1; i++){
         for(int j =i+1; j<sz1; j++){
