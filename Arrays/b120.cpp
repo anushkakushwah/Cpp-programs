@@ -1,4 +1,4 @@
-// reversing of arrray using 2 pointers
+// Reverse the array using 2 poitners
 #include<iostream>
 using namespace std;
 int reverseArray(int arr[], int sz){
