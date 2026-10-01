@@ -1,8 +1,8 @@
-// Seperate even and odd elements of array
+//Seperate even and odd elements of array
 #include<iostream>
 using namespace std;
 int main(){
-    // taking input of array from the user
+    //taking input of array from the user
     int sz;
     cin >> sz;
     int arr[sz];
