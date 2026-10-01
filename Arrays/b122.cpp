@@ -1,4 +1,4 @@
-//Seperate even and odd elements of array
+//Seperate even and odd elements of array and creating other two
 #include<iostream>
 using namespace std;
 int main(){
