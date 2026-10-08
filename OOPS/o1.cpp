@@ -22,6 +22,5 @@ int main(){
     s1 -> roll_no = 127;
     s1 -> age = 19;
     s1 -> branch = "CSE";
-
     s1 -> display();
 }
