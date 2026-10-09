@@ -16,11 +16,13 @@ class Students{
         }
 };
 int main(){
+    // Students s1; // static instance
     // for dynamic instance
     Students *s1 = new Students;
     s1 -> name = "Anushka";
     s1 -> roll_no = 127;
     s1 -> age = 19;
     s1 -> branch = "CSE";
+
     s1 -> display();
 }
