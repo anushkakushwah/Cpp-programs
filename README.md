@@ -7,7 +7,7 @@ This repository contains my C++ programs and practice code as I build a strong f
 - Build strong C++ fundamentals
 - Understand programming concepts clearly
 - Practice by writing code myself
-- Develop problem-solving skills
+- Develop problem-solving skill
 - Prepare for DSA
 
 ## 📚 Topics
