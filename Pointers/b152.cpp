@@ -1,0 +1,12 @@
+// creating variable storing its value using pointers
+#include<iostream>
+using namespace std;
+int main(){
+    int a = 10;
+    int* ptr = &a;
+    cout << ptr;
+    cout << endl;
+    cout << *ptr;
+}
+
+
