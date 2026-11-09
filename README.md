@@ -1,6 +1,6 @@
 # C++ Programming
 
-This repository contains my C++ programs and practice code as I build a strong foundation in C++ before starting Data Structures & Algorithms  .
+This repository contains my C++ programs and practice code as I build a strong foundation in C++ before starting Data Structures & Algorithms .
 
 ## 🎯 Goal
 
