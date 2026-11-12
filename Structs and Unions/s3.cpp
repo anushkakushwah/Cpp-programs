@@ -1,4 +1,4 @@
-// Nested Structures struct inside structs
+// Nested Structures -- struct inside structs
 #include<iostream>
 using namespace std;
 struct Address{
